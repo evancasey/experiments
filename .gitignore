@@ -148,3 +148,4 @@ luac.out
 *.hex
 
 *.swp
+workspace.xml
